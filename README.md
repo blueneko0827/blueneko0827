@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blueneko0827 (Seiichi Tanaka)
+- 👋 Hi, I’m @blueneko0827.
 - 💻 I’m a freelance full-stack developer with 7+ years of experience building robust web applications for startups, agencies, and businesses.
 - 🔧 I work with modern technologies like React, Next.js, Vue.js, Laravel, WordPress, Shopify, and Firebase.
 - 👀 I’m interested in scalable system design, UI/UX best practices, and long-term client partnerships.
